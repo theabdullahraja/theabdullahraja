@@ -77,15 +77,6 @@ I build intelligent systems end to end — from embedded firmware and sensors to
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=theabdullahraja&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabdullahraja&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-</div>
-
----
-
 <div align="center">
 
 🎓 BS Computer Science @ CUST Islamabad (expected Feb 2027) · CGPA 3.51/4.00
